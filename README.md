@@ -1,5 +1,2 @@
 # [👋 Hi Everyone! Welcome to my Profile :D](https://mythdora.carrd.co/)
-[![Mít's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakemythdora&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakemythdora&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fakemythdora&repo=ayustudio.xyz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fakemythdora&repo=fakemythdora&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fakemythdora&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite" alt="Mít's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakemythdora&layout=compact&theme=graywhite" /></a>
