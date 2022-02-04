@@ -1,7 +1,7 @@
 # [👋 Hi Everyone! Welcome to my Profile :D](https://mythdora.carrd.co/)
-- 💡 I’m currently working on **[ServerSetup](https://github.com/fakemythdora/ServerSetup)**
+- 💡 I’m currently working on **[ServerSetup](https://github.com/fakemythdora/ServerSetup)**(Private)
 - 📚 I’m currently learning more about **Typescript, HTML, CSS and Vue.js**
-- 🤔 I’m looking for help ưith **ServerSetup's Developer**
+- 🤔 I’m looking for help with **ServerSetup's Developer**
 - 📫 How to reach me: **[Twitter](https://twitter.com/callmemythdora) | [Discord](https://discord.gg/pVXYFzX58B)**
 - ⚡ Fun fact: **I spend almost 3 hours listening to music everyday | I'm a pro gamer in Roblox**
 
