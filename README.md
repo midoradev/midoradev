@@ -2,7 +2,7 @@
 - 💡 I’m currently working on **[ServerSetup](https://github.com/fakemythdora/ServerSetup)**(Private)
 - 📚 I’m currently learning more about **Typescript and CSS**
 - 🤔 I’m looking for help with **ServerSetup's Developer**
-- 📫 How to reach me: **[Discord | ⋆𝕃⋆#3023](https://discord.gg/pVXYFzX58B)**
+- 📫 How to reach me: **[Discord | ⋆𝕃_Special⋆#3023](https://discord.gg/pVXYFzX58B)**
 - ⚡ Fun fact: **I'm a pro gamer on Roblox**
 
 # **📯 Languages and Tools**  
