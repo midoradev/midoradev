@@ -19,3 +19,7 @@
 # **📊 Github Stats**
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fakemythdora&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite" alt="Mít's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakemythdora&layout=compact&theme=graywhite&langs_count=8" /></a> |
 | ------------- | ------------- |
+
+<a><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakemythdora&theme=graywhite" alt="fakemythora" /></p></a>
+
+<a href="https://github.com/fakemythdora"><img alt="⋆L_Special⋆'s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fakemythdora&custom_title=L_Special's%20Contribution%20Graph&theme=react-dark" /></a>
