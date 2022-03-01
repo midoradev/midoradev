@@ -1,5 +1,5 @@
 # [👋 Hi Everyone! Welcome to my Profile :D](https://mythdora.carrd.co/)
-- 💡 I’m currently working on **SetupBot**(Private)
+- 💡 I’m currently working on **SetupBot**
 - 📚 I’m currently learning more about **Typescript and CSS**
 - 🤔 I’m looking for help with **SetupBot's Developer**
 - 📫 How to reach me: **[Discord | ⋆𝕃_Special⋆#3023](https://discord.gg/pVXYFzX58B)**
