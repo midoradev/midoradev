@@ -2,7 +2,7 @@
 - 💡 I’m currently working on **SetupBot**
 - 📚 I’m currently learning more about **Typescript and CSS**
 - 🤔 I’m looking for help with **SetupBot's Developer**
-- 📫 How to reach me: **[Discord | notmythdora#3023](https://discord.gg/pVXYFzX58B)**
+- 📫 How to reach me: **[Discord | notmythdora#3023](https://discord.com/users/897838071922446466)**
 - ⚡ Fun fact: **I'm a pro gamer on Roblox**
 
 # **📯 Languages and Tools**  
