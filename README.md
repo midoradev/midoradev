@@ -1,7 +1,7 @@
 # [👋 Hi Everyone! Welcome to my Profile :D](https://mythdora.carrd.co/)
-- 💡 I’m currently working on **SetupBot**
+- 💡 I’m currently working on [**EYL**](https://github.com/fakemythdora/EYL)
 - 📚 I’m currently learning more about **Typescript and CSS**
-- 🤔 I’m looking for help with **SetupBot's Developer**
+- 🤔 I’m looking for help with [**EYL's DOCS**](https://github.com/fakemythdora/EYL/tree/main/docs)
 - 📫 How to reach me: **[Discord | notmythdora#3023](https://discord.com/users/897838071922446466)**
 - ⚡ Fun fact: **I'm a pro gamer on Roblox**
 
