@@ -1,4 +1,4 @@
-<p align="center"><a href="https://mythdora.carrd.co/"><img width="50%" src="img profile.png" /></a></p>
+<p align="center"><a href="https://mythdora.carrd.co/"><img width="80%" src="img profile.png" /></a></p>
 
 # **📌 Information**
 - 💡 I’m currently working on [**EYL**](https://github.com/fakemythdora/EYL)
