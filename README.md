@@ -1,4 +1,6 @@
-# [👋 Hi Everyone! Welcome to my Profile :D](https://mythdora.carrd.co/)
+<p align="center"><a href="https://mythdora.carrd.co/"><img width="50%" src="img profile.png" /></a></p>
+
+# **📌 Information**
 - 💡 I’m currently working on [**EYL**](https://github.com/fakemythdora/EYL)
 - 📚 I’m currently learning more about **Typescript and CSS**
 - 🤔 I’m looking for help with [**EYL's DOCS**](https://github.com/fakemythdora/EYL/tree/main/docs)
