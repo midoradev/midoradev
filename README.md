@@ -1,12 +1,3 @@
-<p align="center"><a href="https://mythdora.carrd.co/"><img width="80%" src="img profile.png" /></a></p>
-
-# **📌 Information**
-- 💡 I’m currently working on [**EYL**](https://github.com/fakemythdora/EYL)
-- 📚 I’m currently learning more about **Typescript and CSS**
-- 🤔 I’m looking for help with [**EYL's DOCS**](https://github.com/fakemythdora/EYL/tree/main/docs)
-- 📫 How to reach me: **[Discord | notmythdora#3023](https://discord.com/users/897838071922446466)**
-- ⚡ Fun fact: **I'm a pro gamer on Roblox**
-
 # **📯 Languages and Tools**  
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
