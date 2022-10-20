@@ -14,7 +14,7 @@
 | ------------- | ------------- |
 
 # **🔥 Streak Stats**
-<a><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakemythdora&theme=black-ice" alt="fakemythora" /></p></a>
+<a><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midoraaa&theme=black-ice" alt="midoraaa" /></p></a>
 
 # **⚡ Recent GitHub Activity**
 <a href="https://github.com/midoraaa"><img alt="midoraaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=midoraaa&custom_title=midoraaa's%20Contribution%20Graph&theme=react-dark" /></a>
