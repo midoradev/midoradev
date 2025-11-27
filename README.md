@@ -1,10 +1,10 @@
-<h1 align="center">7ncvz · midoradev</h1>
-<p align="center">Full-stack JavaScript developer</p>
+<h1 align="center">7ncvz · midoradev · Lucas</h1>
+<p align="center">Solo JavaScript developer</p>
 
 ---
 
 ## About me
-I build tools, bots and web applications using JavaScript, TypeScript, React and Node.js.  
+I build tools, bots and web applications using JavaScript, TypeScript, React and Node.js.
 
 ## Languages & Tools
 <p>
